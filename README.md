@@ -5,11 +5,17 @@
 - :briefcase: Освоить новые фреймворки
 - :fire: Профессионально развиваться
 
+#### Контакты:
+
 <a href="https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D1%81%D1%82%D1%8B%D1%80%D1%8F-9b436225b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Ev-Kos&style=flat-square&color=blue" alt=""/>
+<a href="mailto:evgeniiakostyria@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge">
+ </a>
+ <a href="https://t.me/EvgeniiaKostyria">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+  </a>
 
 ---
 ### :hammer_and_wrench: Мой стэк:
