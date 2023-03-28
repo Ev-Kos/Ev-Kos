@@ -25,10 +25,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/Ev-Kos/algososh/blob/master/README_static/cypress.png" width="85" height="40"/>
+<img src="https://github.com/Ev-Kos/algososh/blob/master/README_static/jest.png" width="85" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&nbsp;
-
 ---
 ### :pushpin: Моя статистика:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58)
