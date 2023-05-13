@@ -1,6 +1,6 @@
 ### Меня зовут Евгения 👋
 
-- :open_book: Сейчас я учусь в Яндекс Практикуме на факультете Вэб-разаработки
+- :open_book: Сейчас я учусь в Яндекс Практикуме на факультете Вэб-разработки
 - :dart: Хочу работать с настоящими проектами
 - :briefcase: Освоить новые фреймворки
 - :fire: Профессионально развиваться
@@ -30,6 +30,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="100" height="40"/>&nbsp;
 ---
 ### :pushpin: Моя статистика:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58)
