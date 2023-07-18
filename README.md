@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40" title="Git" alt="Git"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" title="VScode" alt="VScode"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" title="MongoDB" alt="MongoDB"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="100" height="40" title="MongoDB" alt="MongoDB" title="NodeJS" alt="NodeJS"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="100" height="40" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
