@@ -38,7 +38,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 ---
 ### :pushpin: Моя статистика:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ev-Kos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
