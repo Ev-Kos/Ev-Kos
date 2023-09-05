@@ -7,7 +7,7 @@
 
 #### Контакты:
 
-<a href="https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D1%81%D1%82%D1%8B%D1%80%D1%8F-9b436225b/">
+<a href="www.linkedin.com/in/evgeniia-kostyria-9b436225b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:evgeniiakostyria@gmail.com">
