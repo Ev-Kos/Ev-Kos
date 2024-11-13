@@ -1,10 +1,5 @@
 ### Меня зовут Евгения 👋
 
-- :open_book: Я начинаюший Front-разработчик
-- :dart: Хочу работать с настоящими проектами
-- :briefcase: Освоить новые фреймворки
-- :fire: Профессионально развиваться
-
 #### Контакты:
 
 <a href="https://www.linkedin.com/in/evgeniia-kostyria-9b436225b/">
@@ -34,8 +29,11 @@
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" width="100" height="40" title="NodeJS" alt="NodeJS"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://vite.dev/logo.svg" width="40" height="40" title="Vite" alt="Vite"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width="50" height="40" title="Handlebars" alt="handlebars"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-plain-wordmark.svg" width="40" height="40" title="PostCss" alt="PostCss"/>&nbsp;
 ---
 ### :pushpin: Моя статистика:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58)
