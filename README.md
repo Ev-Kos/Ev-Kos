@@ -35,8 +35,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width="50" height="40" title="Handlebars" alt="handlebars"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-plain-wordmark.svg" width="40" height="40" title="PostCss" alt="PostCss"/>&nbsp;
 ---
-### :pushpin: Моя статистика:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58)
+<!--### :pushpin: Моя статистика:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev-Kos&show_icons=true&theme=transparent&text_color=434d58) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ev-Kos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
